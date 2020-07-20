@@ -11,13 +11,13 @@
 # 程序界面
 
 - **主界面**  
-![](https://github.com/Demo-Liu/MyPicture/blob/master/ProxyDownload/%E4%B8%8B%E8%BD%BD%E7%95%8C%E9%9D%A2.png)  
+![](https://github.com/Demo-Liu/MyPicture/raw/master/ProxyDownload/%E4%B8%8B%E8%BD%BD%E7%95%8C%E9%9D%A2.png)  
 
 - **代理配置**  
-![](https://github.com/Demo-Liu/MyPicture/blob/master/ProxyDownload/%E4%BB%A3%E7%90%86%E9%85%8D%E7%BD%AE%E7%95%8C%E9%9D%A2.png)  
+![](https://github.com/Demo-Liu/MyPicture/raw/master/ProxyDownload/%E4%BB%A3%E7%90%86%E9%85%8D%E7%BD%AE%E7%95%8C%E9%9D%A2.png)  
 
 - **开始下载**  
-![](https://github.com/Demo-Liu/MyPicture/blob/master/ProxyDownload/%E4%B8%8B%E8%BD%BD%E4%B8%AD%E7%95%8C%E9%9D%A2.png)  
+![](https://github.com/Demo-Liu/MyPicture/raw/master/ProxyDownload/%E4%B8%8B%E8%BD%BD%E4%B8%AD%E7%95%8C%E9%9D%A2.png)  
 
 # 软件下载
 [ProxyDownload V0.0.1](https://github.com/Demo-Liu/ProxyDownload/releases/tag/0.0.1)
@@ -31,4 +31,4 @@
   上面代码块中 **$JAVAFX_DIR** 为JavaFX SDK的lib目录,如 **D:\Java\javafx-sdk-14.0.1\lib**
 # 如何通过 VMware 搭建多个代理
   由于篇幅原因,这里不再赘述,请移步公众号 **"抓几个娃"** 回复 **"PD"** 获取教程 欢迎关注  
-  ![](https://github.com/Demo-Liu/MyPicture/blob/master/%E6%8A%93%E5%87%A0%E4%B8%AA%E5%A8%83.jpg)  
+  ![](https://github.com/Demo-Liu/MyPicture/raw/master/%E6%8A%93%E5%87%A0%E4%B8%AA%E5%A8%83.jpg)  
