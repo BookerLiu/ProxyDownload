@@ -30,5 +30,5 @@
   ```  
   上面代码块中 **$JAVAFX_DIR** 为JavaFX SDK的lib目录,如 **D:\Java\javafx-sdk-14.0.1\lib**
 # 如何通过 VMware 搭建多个代理
-  由于篇幅原因,这里不再赘述,请移步公众号 **抓几个娃** 回复 **PD** 获取教程 欢迎关注  
+  由于篇幅原因,这里不再赘述,请移步公众号 **"抓几个娃"** 回复 **"PD"** 获取教程 欢迎关注  
   ![](https://github.com/Demo-Liu/MyPicture/blob/master/%E6%8A%93%E5%87%A0%E4%B8%AA%E5%A8%83.jpg)  
