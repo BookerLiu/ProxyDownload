@@ -156,7 +156,7 @@ public class FXMLController {
                             proxyMap.put(HOST+i, host);
                             proxyMap.put(PORT+i, port);
                             //校验通过 持久化至配置文件
-                            PropertiesUtil.outToFile(properties,fxmlC.getClassLoader().getResource(Constants.PROXY_HOST_PRO).getPath());
+                            PropertiesUtil.outToFile(properties,Constants.PROXY_HOST_PRO);
                         }else{
                             //端口不符合规则
                             new DialogBuilder(start).setTitle("提示").setMessage("Port 只能为数字").setNegativeBtn("确定").create();
@@ -169,7 +169,7 @@ public class FXMLController {
                         proxyMap.remove(HOST+i);
                         proxyMap.remove(PORT+i);
                         //持久化至配置文件
-                        PropertiesUtil.outToFile(properties,fxmlC.getClassLoader().getResource(Constants.PROXY_HOST_PRO).getPath());
+                        PropertiesUtil.outToFile(properties,Constants.PROXY_HOST_PRO);
                     } else {
                         if(StringUtil.isEmpty(host)){
                             new DialogBuilder(start).setTitle("提示").setMessage("请配置Host").setNegativeBtn("确定").create();
@@ -199,7 +199,7 @@ public class FXMLController {
                 //持久化到文件
                 Properties properties = new Properties();
                 properties.setProperty(SAVE_PATH,savePath);
-                PropertiesUtil.outToFile(properties,FXMLController.class.getClassLoader().getResource(Constants.CONFIG_PRO).getPath());
+                PropertiesUtil.outToFile(properties,Constants.CONFIG_PRO);
             }
         });
 
