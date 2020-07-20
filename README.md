@@ -11,7 +11,7 @@
 # 程序界面
 
 - **主界面**  
-![1](https://github.com/Demo-Liu/MyPicture/blob/master/ProxyDownload/%E4%B8%8B%E8%BD%BD%E7%95%8C%E9%9D%A2.png)  
+![](https://github.com/Demo-Liu/MyPicture/blob/master/ProxyDownload/%E4%B8%8B%E8%BD%BD%E7%95%8C%E9%9D%A2.png)  
 
 - **代理配置**  
 ![](https://github.com/Demo-Liu/MyPicture/raw/master/ProxyDownload/%E4%BB%A3%E7%90%86%E9%85%8D%E7%BD%AE%E7%95%8C%E9%9D%A2.png)  
